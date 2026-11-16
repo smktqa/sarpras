@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Virtual environment
+venv/
+venv_lama_*/
+venv_rusak_*/
+.venv/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+*.log
+
+# Static & media (dibuat ulang lewat collectstatic / upload)
+/static/
+/media/
+
+# Editor & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

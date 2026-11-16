@@ -1,0 +1,9 @@
+# Sistem SARPRAS - dependency runtime
+# Install: pip install -r requirements.txt
+
+Django==6.0.2
+xhtml2pdf==0.2.17
+openpyxl==3.1.5
+qrcode==8.2
+Pillow==12.1.0
+tzdata==2025.3
